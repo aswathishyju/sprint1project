@@ -1,0 +1,12 @@
+.header
+		{
+			margin-left: -8px;
+			margin-top: -14px;
+			margin-right: -8px;
+		}
+		#search{
+			    position: absolute;
+    left: 590px;
+    top: 9px;
+
+		}

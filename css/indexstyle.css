@@ -1,0 +1,61 @@
+
+.header
+			{
+				background-color: #3B5999;
+				color:#F6F7FB;
+			}
+			
+			.image
+			{
+				width: 90%;
+				height:60%;	
+			}
+			.row
+			{
+				color: #3B5999;
+			}
+			.color
+			{
+				background-color: #3B5999;
+			}
+			.span1
+			{
+				color:black;
+			}
+			.container-fluid
+			{
+				width:100%;
+
+		
+			}
+			.mobile
+			{
+				width:85%;
+			}
+			.mobile1
+			{
+				width: 40%;
+			}
+			.mobile2
+			{
+				width:80%;
+				margin-left: 8%;
+			}
+			.account
+			{
+				background:#3B5999;
+			}
+			.acco
+			{
+				margin-left: 15%;
+				margin-top: 20%;
+			}
+			.btn-link
+			{
+				margin-left: 12%;
+			}
+			.span2
+			{
+				margin-top: 50%;
+				margin-left: 25%;
+			}
